@@ -18,5 +18,12 @@
 }
 
 body {
+  background-color: var(--dark-blue-1);
+  color: var(--white-1);
+  font-family: var(--font-1);
   font-size: 15px;
+}
+
+.card {
+  background-color: var(--dark-blue-2);
 }

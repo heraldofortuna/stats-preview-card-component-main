@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/heraldofortuna/stats-preview-card-component-main)
-- Live Site URL: [Add live site URL here](https://heraldofortuna.github.io/stats-preview-card-component-main/)
+- Solution URL: [Solution link](https://github.com/heraldofortuna/stats-preview-card-component-main)
+- Live Site URL: [Live site link](https://heraldofortuna.github.io/stats-preview-card-component-main/)
 
 ## My process
 

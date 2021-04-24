@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.JPG)
+![](./images/screenshot.JPG)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/heraldofortuna/stats-preview-card-component-main)
+- Live Site URL: [Add live site URL here](https://heraldofortuna.github.io/stats-preview-card-component-main/)
 
 ## My process
 

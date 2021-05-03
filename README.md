@@ -16,8 +16,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution link](https://github.com/heraldofortuna/stats-preview-card-component-main)
-- Live Site URL: [Live site link](https://heraldofortuna.github.io/stats-preview-card-component-main/)
+- [Solution Link](https://github.com/heraldofortuna/stats-preview-card-component-main)
+- [Live Site Link](https://heraldofortuna.github.io/stats-preview-card-component-main/)
 
 ## My process
 
@@ -79,5 +77,5 @@ I definitely need to work and study more on image containers. I'm having trouble
 
 ## Author
 
-- Frontend Mentor - [@heraldofortuna](https://www.frontendmentor.io/profile/heraldofortuna)
+- Frontend Mentor - [heraldofortuna](https://www.frontendmentor.io/profile/heraldofortuna)
 - Twitter - [@heraldofortuna](https://twitter.com/heraldofortuna)

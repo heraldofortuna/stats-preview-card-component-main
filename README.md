@@ -75,7 +75,15 @@ Users should be able to:
 
 I definitely need to work and study more on image containers. I'm having trouble accommodating them in different sizes.
 
+### Useful resources
+
+I used the [guide of challenge](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62) found on Frontend Mentors website. Only that.
+
 ## Author
 
 - Frontend Mentor - [heraldofortuna](https://www.frontendmentor.io/profile/heraldofortuna)
 - Twitter - [@heraldofortuna](https://twitter.com/heraldofortuna)
+
+## Acknowledgments
+
+To my father, for everything.
